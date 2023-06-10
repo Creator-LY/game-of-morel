@@ -1,5 +1,5 @@
 # game-of-morel
-Collect the most delicious mushrooms and roast them gently in a pan. With butter and cidre you can refine your meal. For preparing mushrooms you will earn flavour points. The player who was able to receive the most flavour points by game’s end, will be the winner.
+Collect the most delicious mushrooms and roast them gently in a pan. With butter and cider you can refine your meal. For preparing mushrooms you will earn flavour points. The player who was able to receive the most flavour points by game’s end, will be the winner.
 
 Enjoy your meal.
 
